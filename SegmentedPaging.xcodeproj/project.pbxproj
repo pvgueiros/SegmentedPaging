@@ -192,6 +192,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
+				ORGANIZATIONNAME = Bluecode;
 				TargetAttributes = {
 					CA67ACAD262764F800575D90 = {
 						CreatedOnToolsVersion = 12.4;
